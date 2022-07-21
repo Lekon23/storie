@@ -1,0 +1,5 @@
+server_log.txt
+server-readme.txt
+/.vscode
+/logs
+/gamemodes/*.amx
